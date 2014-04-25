@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mirroir</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">inscriver le text à inverser</string>
+    <string name="titre_verso" >Verso</string>
+    <string name="TextButton">Inversion</string>
+
+</resources>
